@@ -1,10 +1,3 @@
-#############################################
-# Object detection - YOLO - OpenCV
-# Author : Arun Ponnusamy   (July 16, 2018)
-# Website : http://www.arunponnusamy.com
-############################################
-
-
 import cv2
 import argparse
 import numpy as np
@@ -100,5 +93,5 @@ for i in indices:
 cv2.imshow("object detection", image)
 cv2.waitKey()
     
-cv2.imwrite("object-detection.jpg", image)
+cv2.imwrite("manasa.jpg", image)
 cv2.destroyAllWindows()
