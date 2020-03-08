@@ -1,4 +1,6 @@
-# Object_Detection-Tensorflow_and_Kearas
-# Working with real time object detection using Tesorflow and keras
-If any one working on YOLO try the yolo_opecv-neural networks.py applied deep learning model.
- 
+# Working with object detection using Tesorflow and keras with DNN
+## DNN:
+1. DNN is also called convolutional networks, are composed of **multiple levels** of nonlinear operations
+2. Here I used cifar 10 dataset for object detection and I cretated Convolutional Neural Network having multiple layers.
+3. And I train the cifar model 
+4.
